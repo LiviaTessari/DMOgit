@@ -20,4 +20,16 @@
     <string name="hint_duration">Duração (min)</string>
     <string name="hint_distance">Distância (Km)</string>
     <string name="btn_add">Salvar</string>
+
+
+    <!--        MENU        -->
+    <string name="enter">Entrar</string>
+    <string name="menu_home">Home\n</string>
+    <string name="menu_account">Minha conta</string>
+    <string name="menu_new_activity">Nova atividade\n</string>
+    <string name="menu_statistics">Estatisticas\n</string>
+    <string name="menu_ranking">Classificacao</string>
+    <string name="menu_logout">Sair\n</string>
+    <string name="toggle_open">Abrir</string>
+    <string name="toggle_close">Fechar\n</string>
 </resources>
